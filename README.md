@@ -1,4 +1,4 @@
-# 🏦 SafeClub – Secure Ethereum Treasury for Student Clubs
+# 🏦 SafeClub – Trésorerie sécurisée d’un club étudiant sur Ethereum
 
 ## 📌 Description du projet
 
